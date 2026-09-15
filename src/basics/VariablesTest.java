@@ -39,6 +39,15 @@ public class VariablesTest {
 		height = height / 100;// division
 		System.out.println(height);
 		
+		a = 3;
+		b = 4;
+		System.out.println("the square of a = " + a * a);
+		System.out.println("the square of b = " + b * b);
+		System.out.println("the square of c = " + a * a + b * b);
+		
+		final int SPEED_OF_LIGHT = 300000000;
+//		SPEED_OF_LIGHT = 234;
+		
 	}
 	
 }
