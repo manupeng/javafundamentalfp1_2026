@@ -46,8 +46,9 @@ public class VariablesTest {
 		System.out.println("the square of c = " + a * a + b * b);
 		
 		final int SPEED_OF_LIGHT = 300000000;
+		float mass = 2.5f;
 //		SPEED_OF_LIGHT = 234;
-		
+		System.out.println(mass * SPEED_OF_LIGHT * SPEED_OF_LIGHT);
 	}
 	
 }
