@@ -21,5 +21,13 @@ public class ConditionalTest2 {
 		else {
 			System.out.println("so, so");
 		}
+		
+		score = 60;
+		if(score > 50) {
+			System.out.println("so, so");
+		}
+		else if(score < 80 && score > 30) {
+			System.out.println("good");
+		}
 	}
 }
