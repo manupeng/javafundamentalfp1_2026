@@ -3,7 +3,7 @@ package basics;
  * 
  * Sep 11, 2026
  * cepv
- * What is variable?
+ * What is va riable?
  * Why are there different variables?
  * What can do with variables?
  */
